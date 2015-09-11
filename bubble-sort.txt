@@ -1,0 +1,9 @@
+i=0; j=1;
+Para de i indo de 0 ate n-2:
+para j indo de i+1 ate n-1:
+Se a carta i< carta j, mantém.
+Caso contrario
+temp <- carta i
+cart i <- carta j
+carta j <- temp
+Ganhe e seja feliz :D
