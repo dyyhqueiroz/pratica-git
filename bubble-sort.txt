@@ -1,0 +1,6 @@
+Coloque as cartas viradas pra baixo 
+vire as duas primeiras cartas, se a carta da esquerda for menor do que a da direita, mantém. Caso contrário, troque-as de lugar.
+Repita esse processo comparando a primeira carta com todas as outras da fileira.
+Após isso, faça o mesmo começando com a comparação entre a segunda e a terceira carta.
+Repita o processo até que exista a comparação entre a penúltima e ultima carta.
+Ganhe e seja feliz !
