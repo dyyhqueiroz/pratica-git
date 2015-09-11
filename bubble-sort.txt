@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 i=0; j=1;
 Para de i indo de 0 ate n-2:
 para j indo de i+1 ate n-1:
@@ -7,3 +8,10 @@ temp <- carta i
 cart i <- carta j
 carta j <- temp
 Ganhe e seja feliz :D
+=======
+N = 5 , para a carta de A->D 
+compare a carta com a carta da frente -> E 
+se a carta < a outra, mantém. caso contrário troca. 
+Repita até a comparação de D com E.
+Ganhe e seja feliz ;)  
+>>>>>>> a69970c7ac4c04cad364524a84167ab2d4eda16c
