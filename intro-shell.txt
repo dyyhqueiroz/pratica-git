@@ -1,0 +1,18 @@
+Abrindo o Git Bash:
+Primeiro comando:
+$ pwd – present working diretor -> é o primeiro comando utilizado no Shell. Ele lista onde nós estamos no computador.
+Segundo comando:
+$ls "nome da pasta" -> faz uma lista por ordem alfabética de todos os arquivos que existem dentro da pasta
+Terceiro comando:
+$ cd documents -> entra na pasta "Documentos"
+Quarto comando:
+$ cd UERJ -> entra na pasta "UERJ"
+Quinto comando:
+$ cd mat-esp -> entra na pasta "mat-esp"
+Sexto comando:
+$mkdir pratica-shell -> cria a pasta "pratica-shell"
+Setimo comando:
+$ cd pratica-shell -> entra na pasta "pratica-shell"
+
+Abrindo o Sublime Text 2:
+Salvando o arquivo "intro-shell.txt" dentro da pasta "pratica-shell"
